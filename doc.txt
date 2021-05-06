@@ -7,3 +7,9 @@ Planificacion
 Ejecucion
 Seguimiento
 Cierre
+
+Todo proyecto tiene un contexto
+-> cumplir requisitos
+-> Implementar o cambiar estrategias
+-> crear o mejorar productos o servicios
+-> Los procesos tambien se categorizan en areas de conocimiento
